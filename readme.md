@@ -1,3 +1,2 @@
-### Playbooks to deploy NSX-T into a One-Cloud vPOD
+### ANSIBLE Playbooks to deploy NSX-T in a Lab Environment
 
-More documentation will follow
